@@ -1,0 +1,14 @@
+{
+  "name": "OneThing",
+  "description": "A pinned note to remind you of what you were doing",
+  "manifest_version": 2,
+  "version": "0.1",
+  "permissions": [
+    "storage"
+  ],
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
