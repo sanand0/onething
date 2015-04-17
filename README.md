@@ -38,3 +38,11 @@ Thereafter:
 
 - Create a desktop shortcut pointing to Chrome with the argument
   `--app-id=...` -- replace the `...` with the ID you noted
+
+Usage
+-----
+
+- Type in any text in the app. It is persisted in localStorage and is
+  available even after a restart.
+- By default, the app is always shown on top of othe windows. Press
+  <kbd>Ctrl-T</kbd> to toggle this behaviour.
